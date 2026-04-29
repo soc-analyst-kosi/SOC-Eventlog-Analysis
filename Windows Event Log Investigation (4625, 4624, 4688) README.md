@@ -2,7 +2,7 @@ OBJECTIVE
 
 Analyze Windows Security Event Logs to identify suspicious authentication activity and possible post-access behavior.
 
-🛠 TOOLS USED
+ TOOLS USED
 Windows Event Viewer
 Command Prompt / PowerShell
 Microsoft Windows Security Logs
@@ -53,13 +53,13 @@ While legitimate, it is also commonly used by attackers for:
 Privilege verification
 Post-compromise reconnaissance
 
-🔗 EVENT CORRELATION
+ EVENT CORRELATION
 Timeline Pattern
 Multiple failed logins (4625)
 Successful login (4624)
 Command execution (4688 – whoami)
 
-🧠 CORRELATED ANALYSIS
+ CORRELATED ANALYSIS
 
 This sequence indicates a potential attack chain:
 
@@ -92,5 +92,7 @@ The analyzed logs reveal a sequence of events consistent with a simulated brute-
 
 Although this was conducted in a controlled lab environment, the pattern reflects real-world attack behavior and highlights the importance of log monitoring and correlation.
 
-📸 Evidence
+For Evidence View Screenshots in images folder below read.me
+
+
 
