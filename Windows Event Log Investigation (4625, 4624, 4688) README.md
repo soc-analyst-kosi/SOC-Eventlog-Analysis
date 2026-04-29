@@ -92,7 +92,6 @@ The analyzed logs reveal a sequence of events consistent with a simulated brute-
 
 Although this was conducted in a controlled lab environment, the pattern reflects real-world attack behavior and highlights the importance of log monitoring and correlation.
 
-For Evidence View Screenshots in images folder below read.me
 
 
 
